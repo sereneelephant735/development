@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Chocolate Brownie",
+      "type": "Dessert",
+      "difficulty": "Easy",
+      "rating": 4.95,
+      "cookTime": 30,
+      "image": "images/brownie.jpg"
+    },
+    {
+        "name": "Strawberry Cheesecake",
+        "type": "Dessert",
+        "difficulty": "Hard",
+        "rating": 4.98,
+        "cookTime": 180,
+        "image": "images/cheesecake.jpg"
+    },
+    {
+        "name": "Pumpkin Pie",
+        "type": "Dessert",
+        "difficulty": "Medium",
+        "rating": 4.92,
+        "cookTime": 90,
+        "image": "images/pie.jpg"
+    },
+    {
+        "name": "Black Forest Cake",
+        "type": "Dessert",
+        "difficulty": "Hard",
+        "rating": 4.98,
+        "cookTime": 80,
+        "image": "images/blackforest.jpg"
+    },
+    {
+        "name": "Mango Pineapple Smoothie",
+        "type": "Snack",
+        "difficulty": "Easy",
+        "rating": 4.60,
+        "cookTime": 15,
+        "image": "images/smoothie.jpg"
+    },
+    {
+        "name": "Guacamole",
+        "type": "Snack",
+        "difficulty": "Easy",
+        "rating": 4.75,
+        "cookTime": 20,
+        "image": "images/guacamole.jpg"
+    },
+    {
+        "name": "Fruit Dip",
+        "type": "Snack",
+        "difficulty": "Easy",
+        "rating": 4.83,
+        "cookTime": 10,
+        "image": "images/fruitdip.jpg"
+    },
+    {
+        "name": "Caramel Popcorn",
+        "type": "Snack",
+        "difficulty": "Medium",
+        "rating": 4.68,
+        "cookTime": 25,
+        "image": "images/popcorn.jpg"
+    },
+    {
+        "name": "Ribeye Steak",
+        "type": "Dinner",
+        "difficulty": "Medium",
+        "rating": 5.00,
+        "cookTime": 30,
+        "image": "images/steak.jpg"
+    },
+    {
+        "name": "Chicken Parmesan",
+        "type": "Dinner",
+        "difficulty": "Medium",
+        "rating": 4.75,
+        "cookTime": 60,
+        "image": "images/chickenparm.jpg"
+    },
+    {
+        "name": "Teriyaki Salmon",
+        "type": "Dinner",
+        "difficulty": "Easy",
+        "rating": 4.95,
+        "cookTime": 35,
+        "image": "images/salmon.jpg"
+    },
+    {
+        "name": "Italian Meatballs",
+        "type": "Dinner",
+        "difficulty": "Medium",
+        "rating": 4.53,
+        "cookTime": 45,
+        "image": "images/meatballs.jpg"
+    }
+  ]
+  

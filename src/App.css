@@ -1,38 +1,54 @@
 .App {
+  padding: 40px 40px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.header {
+  padding: 0 80px 20px;
+  text-align: left;
+}
+.Main-grid {
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+  margin-right: 35px;
+  align-items: start;
+}
+.Side-bar {
+  margin: 15px 10px 0 25px;
+  padding: 35px 30px;
+  border: 2px solid #d2d2d2;
+  border-radius: 10px;
+  box-shadow: 0 1px 1px #d2d2d2;
+  text-align: left;
+  min-width: 200px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.flex-container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
 }
 
-.App-link {
-  color: #61dafb;
+
+
+/*item card*/
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 400px;
+  margin-bottom:50px;
+  text-align: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/*item card hover property*/
+.card:hover{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); 
 }
+
+/*card text container*/
+.text-container{
+  padding: 10px 16px;
+  margin-bottom: 20px;
+}
+
+
